@@ -20,11 +20,11 @@
  *                 Rules of Battleship.
  */
 void welcomeScreen (void) {
-	printf ("XXXXX   XXXX  XXXXXX XXXXXX XX     XXXXXX  XXXXX XX  XX XX XXXX\n");
-	printf ("XX  XX XX  XX   XX     XX   XX     XX     XX     XX  XX XX XX  XX\n");
-	printf ("XXXXX  XX  XX   XX     XX   XX     XXXX    XXXX  XXXXXX XX XXXX\n"); 
-	printf ("XX  XX XXXXXX   XX     XX   XX     XX         XX XX  XX XX XX\n");
-	printf ("XXXXX  XX  XX   XX     XX   XXXXXX XXXXXX XXXXX  XX  XX XX XX\n");
+	printf ("XXXXX   XXXX  XXXXXX  XXXX  XX     XX  XX  XXXX  \n");
+	printf ("XX  XX XX  XX   XX   XX  XX XX     XX  XX XX  XX \n");
+	printf ("XXXXX  XX  XX   XX   XX  XX XX     XXXXXX XX  XX \n"); 
+	printf ("XX  XX XXXXXX   XX   XXXXXX XX     XX  XX XXXXXX \n");
+	printf ("XXXXX  XX  XX   XX   XX  XX XXXXXX XX  XX XX  XX \n");
 	printf ("\n\n");
 	printf ("RULES OF THE GAME:\n");
 	printf ("1. This is a two player game.\n");
