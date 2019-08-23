@@ -36,15 +36,15 @@
 #define PLAYER_TWO    1
 
 
-#define WATER         '~'
-#define HIT           '*'
-#define MISS          'm'
+#define WATER         'D'
+#define HIT           'P'
+#define MISS          'A'
 
-#define CARRIER       'c'
-#define BATTLESHIP    'b'
-#define CRUISER       'r'
-#define SUBMARINE     's'
-#define DESTROYER     'd'
+#define TRANSPORTADOR  't'
+#define NAVIODEBATALHA 'b'
+#define CRUZADOR       'c'
+#define SUBMARINO      's'
+#define MATADOR        'm'
 
 #define NORTH 0
 #define SOUTH 1
